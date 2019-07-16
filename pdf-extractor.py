@@ -49,9 +49,9 @@ print("Read Complete.")
 # count = 1
 # for image in images_from_path:
 #     print(image)
-#     filename_j = str(count) + '.png'
+#     filename_j = str(count) + '.jpg'
 #     print(filename_j)
-#     image.save(filename_j, 'PNG')
+#     image.save(filename_j, 'JPEG')
 #     count = count + 1
 
 page13_image = images_from_path[12]
